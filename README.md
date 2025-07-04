@@ -1,5 +1,5 @@
-<h2 align="center">MERIT Optimizer</h2>
-<h3 align="center">ICML 2025 | [Paper](https://openreview.net/forum?id=NSxKNNFni0)</h3> 
+<h1 align="center">MERIT Optimizer</h1>
+<h3 align="center">ICML 2025 | <a href="https://openreview.net/forum?id=NSxKNNFni0">Paper</a></h3>
 
 This is an official implementation of **MERIT** optimizer in the "MERIT: Maximum-normalized Element-wise Ratio for Language Model Large-batch Training". Please cite the paper and star this repo if you find MERIT useful. Thanks!
 
